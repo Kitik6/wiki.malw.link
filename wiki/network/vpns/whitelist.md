@@ -78,3 +78,7 @@ heads/main/whitelist.txt
 https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
 
 ```
+```
+https://fflluuxx.work.gd/sub-public/bypass/bypass-all.txt
+
+```
